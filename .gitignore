@@ -104,3 +104,8 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+BBP-Framework/Assets/BBP Textures/**/*.png
+
+# Ignore all PNGs in the BBP Textures folder
+BBP-Framework/Assets/BBP Textures/*.png

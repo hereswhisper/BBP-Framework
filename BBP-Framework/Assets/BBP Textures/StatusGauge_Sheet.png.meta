@@ -1,0 +1,1217 @@
+fileFormatVersion: 2
+guid: ea65bf77b7836fe49a26c84ee2e7d0e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StatusGauge_Sheet_11
+  - first:
+      213: 21300002
+    second: StatusGauge_Sheet_27
+  - first:
+      213: 21300004
+    second: StatusGauge_Sheet_19
+  - first:
+      213: 21300006
+    second: StatusGauge_Sheet_2
+  - first:
+      213: 21300008
+    second: StatusGauge_Sheet_18
+  - first:
+      213: 21300010
+    second: StatusGauge_Sheet_6
+  - first:
+      213: 21300012
+    second: StatusGauge_Sheet_17
+  - first:
+      213: 21300014
+    second: StatusGauge_Sheet_20
+  - first:
+      213: 21300016
+    second: StatusGauge_Sheet_8
+  - first:
+      213: 21300018
+    second: StatusGauge_Sheet_12
+  - first:
+      213: 21300020
+    second: StatusGauge_Sheet_14
+  - first:
+      213: 21300022
+    second: StatusGauge_Sheet_5
+  - first:
+      213: 21300024
+    second: StatusGauge_Sheet_10
+  - first:
+      213: 21300026
+    second: StatusGauge_Sheet_23
+  - first:
+      213: 21300028
+    second: StatusGauge_Sheet_29
+  - first:
+      213: 21300030
+    second: StatusGauge_Sheet_16
+  - first:
+      213: 21300032
+    second: StatusGauge_Sheet_4
+  - first:
+      213: 21300034
+    second: StatusGauge_Sheet_3
+  - first:
+      213: 21300036
+    second: StatusGauge_Sheet_13
+  - first:
+      213: 21300038
+    second: StatusGauge_Sheet_7
+  - first:
+      213: 21300040
+    second: StatusGauge_Sheet_25
+  - first:
+      213: 21300042
+    second: StatusGauge_Sheet_21
+  - first:
+      213: 21300044
+    second: StatusGauge_Sheet_30
+  - first:
+      213: 21300046
+    second: StatusGauge_Sheet_22
+  - first:
+      213: 21300048
+    second: StatusGauge_Sheet_28
+  - first:
+      213: 21300050
+    second: StatusGauge_Sheet_24
+  - first:
+      213: 21300052
+    second: StatusGauge_Sheet_0
+  - first:
+      213: 21300054
+    second: StatusGauge_Sheet_9
+  - first:
+      213: 21300056
+    second: StatusGauge_Sheet_15
+  - first:
+      213: 21300058
+    second: StatusGauge_Sheet_26
+  - first:
+      213: 21300060
+    second: StatusGauge_Sheet_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: PS4
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 176
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a773e3434b5424685e0d427026b86fe
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9671ccbb01e047a888140bf767075c7e
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27825e78600c4c27be9a5760a222fed6
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72d84201db4969a054b3fcc79c3b9b
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f291eeec8e46748c5faca12d3b35ec
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62213d866afb4bfe978f1afb6c64b446
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78936c7ca3be48c5872271bb23ad2a16
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0f83a18734c68b740d031fae594e5
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cc1e8d43f740999f0c705b1c0464de
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ce81f7dfd840009816c7915c2ec8d9
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6397bfc48a2d4c99a82545afe7d2d3b1
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 216
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba72b1a2a574363b3f5c5d6ea0b4203
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb40446f79c4195b50e6ca295b844d1
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb26fccd4544958464ab017d4c8055
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fe72fc1944f8c980976e19fa82ddf
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ba5dabe85640aeb9fb6f41ca8fa3b5
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb4b23d8df4c92b1edcc85a87410a8
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bdbdbeb6db4937aca9b2fc4e5e6b27
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd661c16f44e9393aba44efdfb7180
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 176
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f61364236b4ea98d729dd24f639ac6
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74633c73e1f4453d967a0fb09a1ee1dc
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c0d43fc5045fcb85bf8a076999296
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6456e8adad1d4757a9b0d30eb6c6809b
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f906f024d64bdc9399f72423eb1490
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cc99b00ea24e85a89219d918aa7aa3
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccbf87752a642d58119f43f5285e197
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99c941b5194306b8a86828f232ba99
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 176
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c3bc9648b44929a2ee5170500c4e85
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8aeebcad0483b947357d64d5db107
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8892b0f359a403a974253c7aa06b889
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusGauge_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 216
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcd5cdbb8c46b2bb5e528c87457ad5
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 40, y: 40}
+      - {x: 0, y: 0}
+      - {x: 40, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StatusGauge_Sheet_5: 21300022
+      StatusGauge_Sheet_11: 21300000
+      StatusGauge_Sheet_6: 21300010
+      StatusGauge_Sheet_8: 21300016
+      StatusGauge_Sheet_27: 21300002
+      StatusGauge_Sheet_17: 21300012
+      StatusGauge_Sheet_12: 21300018
+      StatusGauge_Sheet_14: 21300020
+      StatusGauge_Sheet_7: 21300038
+      StatusGauge_Sheet_30: 21300044
+      StatusGauge_Sheet_24: 21300050
+      StatusGauge_Sheet_22: 21300046
+      StatusGauge_Sheet_29: 21300028
+      StatusGauge_Sheet_26: 21300058
+      StatusGauge_Sheet_4: 21300032
+      StatusGauge_Sheet_15: 21300056
+      StatusGauge_Sheet_25: 21300040
+      StatusGauge_Sheet_16: 21300030
+      StatusGauge_Sheet_28: 21300048
+      StatusGauge_Sheet_10: 21300024
+      StatusGauge_Sheet_9: 21300054
+      StatusGauge_Sheet_13: 21300036
+      StatusGauge_Sheet_18: 21300008
+      StatusGauge_Sheet_2: 21300006
+      StatusGauge_Sheet_0: 21300052
+      StatusGauge_Sheet_23: 21300026
+      StatusGauge_Sheet_19: 21300004
+      StatusGauge_Sheet_20: 21300014
+      StatusGauge_Sheet_3: 21300034
+      StatusGauge_Sheet_1: 21300060
+      StatusGauge_Sheet_21: 21300042
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

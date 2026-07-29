@@ -1,0 +1,1441 @@
+fileFormatVersion: 2
+guid: c6a8ee15c00e7414d97d1456e9b3656e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CampingSheet_8
+  - first:
+      213: 21300002
+    second: CampingSheet_36
+  - first:
+      213: 21300004
+    second: CampingSheet_32
+  - first:
+      213: 21300006
+    second: CampingSheet_2
+  - first:
+      213: 21300008
+    second: CampingSheet_24
+  - first:
+      213: 21300010
+    second: CampingSheet_30
+  - first:
+      213: 21300012
+    second: CampingSheet_25
+  - first:
+      213: 21300014
+    second: CampingSheet_34
+  - first:
+      213: 21300016
+    second: CampingSheet_1
+  - first:
+      213: 21300018
+    second: CampingSheet_12
+  - first:
+      213: 21300020
+    second: CampingSheet_11
+  - first:
+      213: 21300022
+    second: CampingSheet_33
+  - first:
+      213: 21300024
+    second: CampingSheet_35
+  - first:
+      213: 21300026
+    second: CampingSheet_37
+  - first:
+      213: 21300028
+    second: CampingSheet_5
+  - first:
+      213: 21300030
+    second: CampingSheet_4
+  - first:
+      213: 21300032
+    second: CampingSheet_26
+  - first:
+      213: 21300034
+    second: CampingSheet_28
+  - first:
+      213: 21300036
+    second: CampingSheet_6
+  - first:
+      213: 21300038
+    second: CampingSheet_21
+  - first:
+      213: 21300040
+    second: CampingSheet_14
+  - first:
+      213: 21300042
+    second: CampingSheet_10
+  - first:
+      213: 21300044
+    second: CampingSheet_15
+  - first:
+      213: 21300046
+    second: CampingSheet_29
+  - first:
+      213: 21300048
+    second: CampingSheet_27
+  - first:
+      213: 21300050
+    second: CampingSheet_13
+  - first:
+      213: 21300052
+    second: CampingSheet_7
+  - first:
+      213: 21300054
+    second: CampingSheet_31
+  - first:
+      213: 21300056
+    second: CampingSheet_17
+  - first:
+      213: 21300058
+    second: CampingSheet_0
+  - first:
+      213: 21300060
+    second: CampingSheet_38
+  - first:
+      213: 21300062
+    second: CampingSheet_23
+  - first:
+      213: 21300064
+    second: CampingSheet_20
+  - first:
+      213: 21300066
+    second: CampingSheet_9
+  - first:
+      213: 21300068
+    second: CampingSheet_18
+  - first:
+      213: 21300070
+    second: CampingSheet_3
+  - first:
+      213: 21300072
+    second: CampingSheet_19
+  - first:
+      213: 21300074
+    second: CampingSheet_16
+  - first:
+      213: 21300076
+    second: CampingSheet_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: PS4
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CampingSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb4036913824b1794b5a193f3f48648
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca39369c26f41bf87c5dd91306ae108
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424551a5df37454a9cc3efbb91d28995
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6af19e1c63c4f76ae6e27d4fd6fc169
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd64335535b3446d866a7304de44192f
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a898eff531346fd98eec57d08d1a1a2
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8cfe4ba6414f499475408bed7bc630
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc745bb41d48238f71b0e77673e415
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa80320103c84dd9bb926a5010278c1d
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77bd1b4592a4c4db14b514b1822b379
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0708d1a7e3840909f47e67c53341a85
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451fb5b57ac47d58b0c62bc68e39161
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b758cce0ca8b47d586ff7f85d38f4cea
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c2928d270746e995168f2a926c79cc
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c54fb0d7c4982a48dbaf91653e0a1
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b712304fb4baa896b52d7d36870dd
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c17143d864fe88a45d14d9f393e77
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1d2f09e19446eaae250154913e636
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a08b606c84379bccaf67f208e14cf
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b83d31e8e14073be4214c0982cfc74
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0423940c22834c7bb2381844f8116204
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ac340567d9404cb263a39773e1da54
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb8fb5622b748dbb00972eb0387b855
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872a612d7e764af98dc4cffe085effe7
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaccc89f2244c2d9df1769e3fc25580
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fefcf70dd46c199e9e7a4353d0e51
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9578736e6e42aa8c01ec78ab0133c5
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51dad36d6124b149106341fddcb7d53
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32928d9b1fbe41e2a38cbc6e23d7a926
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84040cc836748009c274040a698d0f5
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee56210ea36462fbc411797f2dd6536
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a7d4824b50422fbfbd62c1a0ec19e4
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77581f022964803847a0d58383526b6
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248b332faf2341fdb2da1a1bc767ffd3
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba81999cfa14eff8cc4dbcbe377e9c1
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f37ef8e248401cac05f4fec6fc79a0
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6de681cbbf452c97c4486e035ffb31
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2bfa78081c47119ac86be1f0acba8a
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023b293cd0e47caa23e3801813df06e
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 256}
+      - {x: 256, y: 256}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1377 @@
+fileFormatVersion: 2
+guid: 62499ad4e530f4b4989c0a3c2cee091c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BaldiPicnic_Sheet_36
+  - first:
+      213: 21300002
+    second: BaldiPicnic_Sheet_19
+  - first:
+      213: 21300004
+    second: BaldiPicnic_Sheet_35
+  - first:
+      213: 21300006
+    second: BaldiPicnic_Sheet_16
+  - first:
+      213: 21300008
+    second: BaldiPicnic_Sheet_4
+  - first:
+      213: 21300010
+    second: BaldiPicnic_Sheet_15
+  - first:
+      213: 21300012
+    second: BaldiPicnic_Sheet_14
+  - first:
+      213: 21300014
+    second: BaldiPicnic_Sheet_3
+  - first:
+      213: 21300016
+    second: BaldiPicnic_Sheet_39
+  - first:
+      213: 21300018
+    second: BaldiPicnic_Sheet_7
+  - first:
+      213: 21300020
+    second: BaldiPicnic_Sheet_13
+  - first:
+      213: 21300022
+    second: BaldiPicnic_Sheet_28
+  - first:
+      213: 21300024
+    second: BaldiPicnic_Sheet_1
+  - first:
+      213: 21300026
+    second: BaldiPicnic_Sheet_5
+  - first:
+      213: 21300028
+    second: BaldiPicnic_Sheet_20
+  - first:
+      213: 21300030
+    second: BaldiPicnic_Sheet_0
+  - first:
+      213: 21300032
+    second: BaldiPicnic_Sheet_18
+  - first:
+      213: 21300034
+    second: BaldiPicnic_Sheet_38
+  - first:
+      213: 21300036
+    second: BaldiPicnic_Sheet_40
+  - first:
+      213: 21300038
+    second: BaldiPicnic_Sheet_26
+  - first:
+      213: 21300040
+    second: BaldiPicnic_Sheet_6
+  - first:
+      213: 21300042
+    second: BaldiPicnic_Sheet_9
+  - first:
+      213: 21300044
+    second: BaldiPicnic_Sheet_33
+  - first:
+      213: 21300046
+    second: BaldiPicnic_Sheet_41
+  - first:
+      213: 21300048
+    second: BaldiPicnic_Sheet_22
+  - first:
+      213: 21300050
+    second: BaldiPicnic_Sheet_8
+  - first:
+      213: 21300052
+    second: BaldiPicnic_Sheet_21
+  - first:
+      213: 21300054
+    second: BaldiPicnic_Sheet_2
+  - first:
+      213: 21300056
+    second: BaldiPicnic_Sheet_32
+  - first:
+      213: 21300058
+    second: BaldiPicnic_Sheet_24
+  - first:
+      213: 21300060
+    second: BaldiPicnic_Sheet_11
+  - first:
+      213: 21300062
+    second: BaldiPicnic_Sheet_30
+  - first:
+      213: 21300064
+    second: BaldiPicnic_Sheet_10
+  - first:
+      213: 21300066
+    second: BaldiPicnic_Sheet_37
+  - first:
+      213: 21300068
+    second: BaldiPicnic_Sheet_17
+  - first:
+      213: 21300070
+    second: BaldiPicnic_Sheet_34
+  - first:
+      213: 21300072
+    second: BaldiPicnic_Sheet_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: PS4
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe61ea896f93482386af1da27ed70099
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ffb4ae9d2a42099d263c50890317a4
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88059458eb454a56b47dda261f20ea8e
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f693641bc4b7e8dac0f50df6985a6
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c26d1f913664d3f83a3b4146f44e106
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562c9503b9241bea8f3267d731188da
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abdb03c66b45a6920940b23459c196
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a889fbe234e74e85953e68becbc70394
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109c61a128b477d9857214db6636ae5
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4176b73b4d4920ae0914496ab2b49c
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d41b336124bafbfd2b6df0168b250
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc9146bd96d4b42a3258e25cd939ef4
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c47abb77d24448b916280eca76511c
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373c10e5125944c293091885f348fc43
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca371f69052465c95a2070cd303fde5
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccfa3014e5a47d98b52382819776bd9
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96bb461580545b08c65b79585be90a1
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6ccb99dff6426bbff3e833d0987b6d
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586647cf701e409a98b011fc9c28eb1d
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb04edcfb7354546902a8d58b135a0d6
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c9f12952bb42a9a3e81480c079239f
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ca12b3d904f0bb7ec684ef797b960
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68534b1a7cec45d3894baa016d171430
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f0734c32f4a2c9dfc9ed138a1fae3
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfc2eebe494cc98fb7aa2a9097f33f
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0308131e9341a9b99f0042747867de
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bde68fd7e84a18a0e6f16096cf82cb
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ab5771c9a14bfb92826600db434c87
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e7d2e6170442fba79cee1b6e7c0385
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa83e9af00b469185baae736add080f
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975123e7039424786b939b3da73238a
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c4e64f852442e4bb286bf7d1d9e435
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df359705323a4ec68e58f9c28f3f65e4
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f9c99c53c47068f066ccbe01130d9
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0939a33163704e89b6f9ed1b09cd67f6
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465197b76624618907d6bac56c2f06e
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiPicnic_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -64}
+        - {x: -128, y: 64}
+        - {x: 128, y: 64}
+        - {x: 128, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbd58a0bee045ed9e12c6b4666f69ba
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 128}
+      - {x: 256, y: 128}
+      - {x: 0, y: 0}
+      - {x: 256, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
