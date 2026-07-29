@@ -6,14 +6,23 @@
 # See: https://github.com/github/gitignore/tree/main/Global
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+BBP-Framework/[Ll]ibrary/
+BBP-Framework/[Tt]emp/
+BBP-Framework/[Oo]bj/
+BBP-Framework/[Bb]uild/
+BBP-Framework/[Bb]uilds/
+BBP-Framework/[Ll]ogs/
+BBP-Framework/[Uu]ser[Ss]ettings/
 *.log
+
+BBP-Framework/Library/
+BBP-Framework/Temp/
+BBP-Framework/Obj/
+BBP-Framework/Build/
+BBP-Framework/Builds/
+BBP-Framework/Logs/
+BBP-Framework/UserSettings/
+BBP-Framework/MemoryCaptures/
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
@@ -109,3 +118,8 @@ BBP-Framework/Assets/BBP Textures/**/*.png
 
 # Ignore all PNGs in the BBP Textures folder
 BBP-Framework/Assets/BBP Textures/*.png
+
+BBP-Framework/Assets/BBP Sounds/**/*.wav
+
+# Ignore all Wav in the BBP Sounds folder
+BBP-Framework/Assets/BBP Sounds/*.wav
